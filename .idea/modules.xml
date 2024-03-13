@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hebut/hebut.iml" filepath="$PROJECT_DIR$/hebut/hebut.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/wms.iml" filepath="$PROJECT_DIR$/.idea/wms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wms-web.iml" filepath="$PROJECT_DIR$/wms-web.iml" />
     </modules>
   </component>
 </project>
